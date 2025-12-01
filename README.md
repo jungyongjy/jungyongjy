@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I am Jung Yong, a Business Analytics undergraduate from SUSS. I enjoy turning ideas into insights, and I'm currently working on an end-to-end project on [TBD].
+I'm currently learning Predictive Models and SQL, and I'm looking for help with advanced Python for Data Analytics. 
+
+My personal hobbies include reading classic literature, but I also enjoy non-fiction books every now and then to keep things fresh. 
+
+If you want to connect with me: jywong012@suss.edu.sg is where you'll get the fastest response.
+
 <!--
 **jungyongjy/jungyongjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
