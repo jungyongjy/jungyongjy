@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Jung Yong, a Business Analytics undergraduate from SUSS. I enjoy turning ideas into insights, and I'm currently working on an end-to-end project on [TBD].
+I am Jung Yong, a Business Analytics undergraduate from SUSS. I enjoy turning ideas into insights, and I'm currently working on a data manipulation project with NumPy.
 I'm currently learning Predictive Models and SQL, and I'm looking for help with advanced Python for Data Analytics. 
 
 My personal hobbies include reading classic literature, but I also enjoy non-fiction books every now and then to keep things fresh. 
