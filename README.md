@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I am Jung Yong, a Business Analytics undergraduate from SUSS. I enjoy turning ideas into insights, and I'm currently working on a data drift detection model for the NAISC 2026.
-I'm currently studying up on agentic workflows and big data (PySpark), and I'm looking for help with advanced LLMs and Streamlit. 
+I am Jung Yong, a Business Analytics undergraduate from SUSS. I enjoy turning ideas into insights, and I'm currently working on an automated job scraper to streamline internship hunts (what has the world come to).
+I'm currently studying up on agentic workflows and big data (PySpark), and I'm looking for help on learning about AI governance and ethics.  
 
 My personal hobbies include reading classic literature, but I also enjoy non-fiction books every now and then to keep things fresh. 
 
